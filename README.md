@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feyzatesoglu
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ Programming Language
+- 🌱 I’m currently learning C# Programming Language
 - 📫 How to reach me -> atesogluf35@gmail.com
 
 <!---
