@@ -8,13 +8,7 @@
 - 📝 I regularly write articles on [https://medium.com/@atesogluf](https://medium.com/@atesogluf)
 
 - 📫 How to reach me **atesogluf35@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 
 <a href="https://linkedin.com/in/feyza-ateşoğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feyza-ateşoğlu" height="30" width="40" /></a>
 <a href="https://kaggle.com/feyzaatesoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="feyzaatesoglu" height="30" width="40" /></a>
 <a href="https://instagram.com/atesogluf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atesogluf" height="30" width="40" /></a>
