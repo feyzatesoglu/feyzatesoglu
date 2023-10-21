@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Feyza</h1>
-<h3 align="center">I am 4th grade Computer Engineering Student in Eskişehir Osmangazi University and part time developer in Aanadolu University Computer Research and Application Center.</h3>
+<h3 align="center">I am 4th grade Computer Engineering Student in Eskişehir Osmangazi University and part time developer in Anadolu University Computer Research and Application Center.</h3>
 
 - 🔭 I’m currently working on **Anadolu Application System Development**
 
