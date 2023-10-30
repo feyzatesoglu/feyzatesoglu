@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Anadolu Application System Development**
 
-- 🌱 I’m currently learning **Web3, Typecript, Angular, Asp.Net Core, Machine Learning with Phyton**
+- 🌱 I’m currently learning **Web3, Typescript, Angular, Asp.Net Core, Machine Learning with Phyton**
 
 - 📝 I regularly write articles on [https://medium.com/@atesogluf](https://medium.com/@atesogluf)
 
