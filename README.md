@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Feyza</h1>
-<h3 align="center">I'm 4th grade Computer Engineering Student in Eskişehir Osmangazi University and part time developer in Anadolu University Computer Research and Application Center.</h3>
+<h3 align="center">I'm 4th grade Computer Engineering Student in Eskişehir Osmangazi University and software developer in Mergen Yazılım.</h3>
 
-- 🔭 I’m currently working on **Anadolu Application System Development**
+- 🔭 I’m currently working on **Angular Firebase Project**
 
 - 🌱 I’m currently learning **Typescript, Angular, Asp.Net Core, Machine Learning with Phyton**
 
