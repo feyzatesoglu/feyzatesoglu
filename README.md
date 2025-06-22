@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Feyza</h1>
-<h3 align="center">I'm 4th grade Computer Engineering Student in Eskişehir Osmangazi University and software developer in Mergen Yazılım.</h3>
+<h3 align="center">I'm software developer.
+- 🔭 I’m currently working on **Java Spring Bank Credit Project with Cursor**
 
-- 🔭 I’m currently working on **Angular Firebase Project**
-
-- 🌱 I’m currently learning **Typescript, Angular, Asp.Net Core, Machine Learning with Phyton**
+- 🌱 I’m currently learning **Typescript, Angular, Asp.Net Core, Machine Learning with Phyton, Java**
 
 - 📝 I regularly write articles on [https://medium.com/@atesogluf](https://medium.com/@atesogluf)
 
